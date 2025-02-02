@@ -8,13 +8,13 @@
 
 ## 📌 Índice
 <p align="center">    
-  <a href="#apresentacao-da-tarefa"> :clipboard: Apresentacao da tarefa </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;        
-  <a href="#objetivos"> :dart: Objetivos </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;          
-  <a href="#descricao-do-projeto"> :books: Descricao do Projeto </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;  
-  <a href="#integrantes-do-projeto"> :walking: Integrantes do Projeto </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;  
-  <a href="#funcionamento-do-projeto"> :bookmark_tabs: Funcionamento do Projeto </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;         
-  <a href="#gif-mostrando-o-funcionamento-do-programa-na-placa-bitdoglab"> :camera: GIF mostrando o funcionamento do programa na placa BitDogLab </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;        
-  <a href="#video-no-youtube-mostrando-o-funcionamento-do-programa-na-placa-bitdoglab"> :arrow_forward: Video no youtube mostrando o funcionamento do programa na placa BitDogLab </a>
+  <a href="#apresentacao-da-tarefa"> Apresentacao da tarefa </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;        
+  <a href="#objetivos"> Objetivos </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;          
+  <a href="#descricao-do-projeto"> Descricao do Projeto </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;  
+  <a href="#integrantes-do-projeto"> Integrantes do Projeto </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;  
+  <a href="#funcionamento-do-projeto"> Funcionamento do Projeto </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;         
+  <a href="#gif-mostrando-o-funcionamento-do-programa-na-placa-bitdoglab"> GIF mostrando o funcionamento do programa na placa BitDogLab </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;        
+  <a href="#video-no-youtube-mostrando-o-funcionamento-do-programa-na-placa-bitdoglab"> Video no youtube mostrando o funcionamento do programa na placa BitDogLab </a>
 </p>
 
 ## :clipboard: Apresentacao da tarefa
