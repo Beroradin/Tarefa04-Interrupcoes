@@ -8,12 +8,12 @@
 
 ## 📌 Índice
 <p align="center">    
-  <a href="#apresentacao-da-tarefa"> Apresentação da tarefa </a> &nbsp; | &nbsp;        
-  <a href="#objetivos"> Objetivos </a> &nbsp; | &nbsp;          
-  <a href="#descricao-do-projeto"> Descrição do Projeto </a> &nbsp; | &nbsp;  
-  <a href="#integrantes-do-projeto"> Integrantes do Projeto </a> &nbsp; | &nbsp;  
-  <a href="#funcionamento-do-projeto"> Funcionamento do Projeto </a> &nbsp; | &nbsp;         
-  <a href="#gif-mostrando-o-funcionamento-do-programa-na-placa-bitdoglab"> GIF do programa na BitDogLab </a> &nbsp; | &nbsp;        
+  <a href="#apresentacao-da-tarefa"> Apresentação da tarefa </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;        
+  <a href="#objetivos"> Objetivos </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;        
+  <a href="#descricao-do-projeto"> Descrição do Projeto </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;  
+  <a href="#integrantes-do-projeto"> Integrantes do Projeto </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;   
+  <a href="#funcionamento-do-projeto"> Funcionamento do Projeto </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;          
+  <a href="#gif-mostrando-o-funcionamento-do-programa-na-placa-bitdoglab"> GIF do programa na BitDogLab </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;         
   <a href="#video-no-youtube-mostrando-o-funcionamento-do-programa-na-placa-bitdoglab"> Vídeo no YouTube </a>    
 </p>
 
