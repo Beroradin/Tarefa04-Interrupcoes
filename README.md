@@ -8,13 +8,13 @@
 
 ## 📌 Índice
 <p align="center">    
-  <a href="#apresentacao-da-tarefa"> Apresentação da tarefa </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;        
-  <a href="#objetivos"> Objetivos </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;          
-  <a href="#descricao-do-projeto"> Descrição do Projeto </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;  
-  <a href="#integrantes-do-projeto"> Integrantes do Projeto </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;  
-  <a href="#funcionamento-do-projeto"> Funcionamento do Projeto </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;         
-  <a href="#gif-mostrando-o-funcionamento-do-programa-na-placa-bitdoglab"> GIF mostrando o funcionamento do programa na placa BitDogLab </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;        
-  <a href="#video-no-youtube-mostrando-o-funcionamento-do-programa-na-placa-bitdoglab"> Vídeo no YouTube mostrando o funcionamento do programa na placa BitDogLab </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;          
+  <a href="#apresentacao-da-tarefa"> Apresentação da tarefa </a> &nbsp; | &nbsp;        
+  <a href="#objetivos"> Objetivos </a> &nbsp; | &nbsp;          
+  <a href="#descricao-do-projeto"> Descrição do Projeto </a> &nbsp; | &nbsp;  
+  <a href="#integrantes-do-projeto"> Integrantes do Projeto </a> &nbsp; | &nbsp;  
+  <a href="#funcionamento-do-projeto"> Funcionamento do Projeto </a> &nbsp; | &nbsp;         
+  <a href="#gif-mostrando-o-funcionamento-do-programa-na-placa-bitdoglab"> GIF do programa na BitDogLab </a> &nbsp; | &nbsp;        
+  <a href="#video-no-youtube-mostrando-o-funcionamento-do-programa-na-placa-bitdoglab"> Vídeo no YouTube </a>    
 </p>
 
 ## :clipboard: Apresentação da tarefa
@@ -47,12 +47,12 @@ O funcionamento da interrupção ocorre por meio da API de Hardware *gpio_set_ir
 - O Botão A incrementa o valor mostrado na matriz de 0 a 9;
 - O Botão B decrementa o valor mostrado na matriz de 9 a 0.
 
-### :camera: GIF mostrando o funcionamento do programa na placa BitDogLab
+## :camera: GIF mostrando o funcionamento do programa na placa BitDogLab
 <p align="center">
-  <img src=".github/GIFdemo.gif" alt="GIF" width="700px" />
+  <img src=".github/GIFdemo.gif" alt="GIF" width="345px" />
 </p>
 
-### :arrow_forward: Vídeo no youtube mostrando o funcionamento do programa na placa BitDogLab
+## :arrow_forward: Vídeo no youtube mostrando o funcionamento do programa na placa BitDogLab
 
 <p align="center">
     <a href="https://www.youtube.com/watch?v=iAumEOQ9L48">Clique aqui para acessar o site</a>
