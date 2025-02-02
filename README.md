@@ -6,18 +6,7 @@
 
 <p align="center"> Repositório dedicado a Tarefa 04 do processo de capacitação do EmbarcaTech que envolve interrupções na placa Raspberry Pi Pico W por meio da Placa BitDogLab.</p>
 
-## 📌 Índice
-<p align="center">    
-  <a href="#apresentacao-da-tarefa"> Apresentacao da tarefa </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;        
-  <a href="#objetivos"> Objetivos </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;          
-  <a href="#descricao-do-projeto"> Descricao do Projeto </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;  
-  <a href="#integrantes-do-projeto"> Integrantes do Projeto </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;  
-  <a href="#funcionamento-do-projeto"> Funcionamento do Projeto </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;         
-  <a href="#gif-mostrando-o-funcionamento-do-programa-na-placa-bitdoglab"> GIF mostrando o funcionamento do programa na placa BitDogLab </a> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;        
-  <a href="#video-no-youtube-mostrando-o-funcionamento-do-programa-na-placa-bitdoglab"> Video no youtube mostrando o funcionamento do programa na placa BitDogLab </a>
-</p>
-
-## :clipboard: Apresentacao da tarefa
+## :clipboard: Apresentação da tarefa
 
 Para consolidar a compreensão dos conceitos relacionados ao uso de interrupções no microcontrolador RP2040 e explorar as funcionalidades da placa de desenvolvimento BitDogLab, esta atividade propõe a implementação de um projeto prático envolvendo controle de LEDs e tratamento de eventos com botões.
 
@@ -31,7 +20,7 @@ Para consolidar a compreensão dos conceitos relacionados ao uso de interrupçõ
 
 - LED RGB deve piscar 5 vezes por segundo.
 
-## :books: Descricao do Projeto
+## :books: Descrição do Projeto
 
 Utiizou-se a placa BitDogLab (que possui o microcontrolador RP2040) para o controle de LEDs endereçáveis WS2812 por meio de interrupções, esses por sua vez são acionados por meio de botões (Botão A no GPIO 05 e Botão B no GPIO 06).
 O funcionamento da interrupção ocorre por meio da API de Hardware *gpio_set_irq_enabled* que opera de forma externa ao processamento central, não afetando o funcionamento do LED RGB, que deve piscar 5 vezes por segundo.
@@ -52,7 +41,7 @@ O funcionamento da interrupção ocorre por meio da API de Hardware *gpio_set_ir
   <img src=".github/GIFdemo.gif" alt="GIF" width="345px" />
 </p>
 
-## :arrow_forward: Video no youtube mostrando o funcionamento do programa na placa BitDogLab
+## :arrow_forward: Vídeo no youtube mostrando o funcionamento do programa na placa BitDogLab
 
 <p align="center">
     <a href="https://www.youtube.com/watch?v=iAumEOQ9L48">Clique aqui para acessar o site</a>
